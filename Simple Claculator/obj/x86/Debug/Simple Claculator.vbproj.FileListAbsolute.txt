@@ -1,0 +1,18 @@
+F:\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.exe
+F:\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.pdb
+F:\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.xml
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple_Claculator.Form1.resources
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple_Claculator.Resources.resources
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.vbproj.GenerateResource.Cache
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.exe
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.xml
+F:\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.pdb
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.exe
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.xml
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.pdb
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.exe
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.pdb
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\bin\Debug\Simple Claculator.xml
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple_Claculator.Form1.resources
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple_Claculator.Resources.resources
+F:\Red Boot\MS Stdio\Simple Claculator\Simple Claculator\obj\x86\Debug\Simple Claculator.vbproj.GenerateResource.Cache
